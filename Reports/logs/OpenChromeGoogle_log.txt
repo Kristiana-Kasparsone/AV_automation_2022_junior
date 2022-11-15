@@ -1,0 +1,64 @@
+[DEBUG] [20221114-211309]: Found roles: ["desktopChrome"]
+[INFO] [20221114-211309]: Starting creation and configuration of role handlers...
+[DEBUG] [20221114-211309]: Creating handler for case role 'desktopChrome'...
+[DEBUG] [20221114-211309]: Created handler for case role 'desktopChrome'
+[INFO] [20221114-211309]: All role handlers created and fully configured!
+[INFO] [20221114-211309]: chromeOptions: {}
+[INFO] [20221114-211311]: Starting main case OpenChromeGoogle
+[DEBUG] [20221114-211311]: Case 'OpenChromeGoogle': adding sequential action: 'navigate' for role desktopChrome
+[DEBUG] [20221114-211311]: Case 'OpenChromeGoogle': adding sequential action: 'sleep' 
+[INFO] [20221114-211311]: Role: 'desktopChrome', Action: 'navigate', Value: 'https://google.com'
+[INFO] [20221114-211312]: Role: 'desktopChrome', Action: 'sleep', Time: '10'
+[INFO] [20221114-211322]: All cases have finished
+================================================================================
+[INFO] [20221114-211322]: Finished Case Execution for 'OpenChromeGoogle'
+================================================================================
+[INFO] [20221114-211322]: Stopping Appium drivers and servers...
+[INFO] [20221114-211322]: Role 'desktopChrome': Stopping Selenium driver... 
+Done!
+
+[DEBUG] [20221114-211332]: Found roles: ["desktopChrome"]
+[INFO] [20221114-211332]: Starting creation and configuration of role handlers...
+[DEBUG] [20221114-211332]: Creating handler for case role 'desktopChrome'...
+[DEBUG] [20221114-211332]: Created handler for case role 'desktopChrome'
+[INFO] [20221114-211332]: All role handlers created and fully configured!
+[INFO] [20221114-211332]: chromeOptions: {}
+[INFO] [20221114-211334]: Starting main case OpenChromeGoogle
+[DEBUG] [20221114-211334]: Case 'OpenChromeGoogle': adding sequential action: 'navigate' for role desktopChrome
+[DEBUG] [20221114-211334]: Case 'OpenChromeGoogle': adding sequential action: 'sleep' 
+[INFO] [20221114-211334]: Role: 'desktopChrome', Action: 'navigate', Value: 'https://google.com'
+[INFO] [20221114-211334]: Role: 'desktopChrome', Action: 'sleep', Time: '10'
+[INFO] [20221114-211344]: All cases have finished
+================================================================================
+[INFO] [20221114-211344]: Finished Case Execution for 'OpenChromeGoogle'
+================================================================================
+[INFO] [20221114-211344]: Stopping Appium drivers and servers...
+[INFO] [20221114-211344]: Role 'desktopChrome': Stopping Selenium driver... 
+Done!
+
+[DEBUG] [20221114-215547]: Found roles: ["desktopChrome"]
+[INFO] [20221114-215547]: Starting creation and configuration of role handlers...
+[DEBUG] [20221114-215547]: Creating handler for case role 'desktopChrome'...
+[DEBUG] [20221114-215547]: Created handler for case role 'desktopChrome'
+[INFO] [20221114-215547]: All role handlers created and fully configured!
+[INFO] [20221114-215547]: chromeOptions: {}
+[INFO] [20221114-215549]: Starting main case OpenChromeGoogle
+[DEBUG] [20221114-215549]: Case 'OpenChromeGoogle': adding sequential action: 'navigate' for role desktopChrome
+[DEBUG] [20221114-215549]: Case 'OpenChromeGoogle': adding sequential action: 'click' 
+[DEBUG] [20221114-215549]: Case 'OpenChromeGoogle': adding sequential action: 'send_keys' 
+[DEBUG] [20221114-215549]: Case 'OpenChromeGoogle': adding sequential action: 'click' 
+[DEBUG] [20221114-215549]: Case 'OpenChromeGoogle': adding sequential action: 'sleep' 
+[INFO] [20221114-215549]: Role: 'desktopChrome', Action: 'navigate', Value: 'https://google.com'
+[INFO] [20221114-215550]: Role: 'desktopChrome', Action: 'click', Element: 'css:#L2AGLb'
+[INFO] [20221114-215550]: Role: 'desktopChrome', Action: 'send_keys', Element: 'xpath://input[@title='Search']', Value: 'TestRay'
+[INFO] [20221114-215550]: desktopChrome: Sending keys: TestRay
+[INFO] [20221114-215550]: Role: 'desktopChrome', Action: 'click', Element: 'css:[class='FPdoLc lJ9FBc'] input[aria-label='Google Search']'
+[INFO] [20221114-215552]: Role: 'desktopChrome', Action: 'sleep', Time: '10'
+[INFO] [20221114-215602]: All cases have finished
+================================================================================
+[INFO] [20221114-215602]: Finished Case Execution for 'OpenChromeGoogle'
+================================================================================
+[INFO] [20221114-215602]: Stopping Appium drivers and servers...
+[INFO] [20221114-215602]: Role 'desktopChrome': Stopping Selenium driver... 
+Done!
+
